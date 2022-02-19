@@ -12,3 +12,9 @@ As regras são as seguintes:
 - Papel empata com Papel e ganha de Pedra
 
 Deve ser realizado na linguagem C
+
+## Como rodar
+
+```
+sh run-jokenpo.sh
+```
